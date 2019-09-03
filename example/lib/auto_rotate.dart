@@ -40,6 +40,7 @@ class _ChewieDemoState extends State<ChewieDemo> {
         videoPlayerController: _videoPlayerController1,
         aspectRatio: 3 / 2,
         autoPlay: true,
+        showControlsOnInitialize: false,
         looping: true,
         routePageBuilder: (BuildContext context, Animation<double> animation,
             Animation<double> secondAnimation, provider) {
