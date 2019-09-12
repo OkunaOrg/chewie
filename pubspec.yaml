@@ -13,7 +13,7 @@ dependencies:
   open_iconic_flutter: ">=0.3.0 <0.4.0"
   video_player:
     git:
-      url: git@github.com:999eagle/plugins.git
+      url: https://github.com/999eagle/plugins.git
       ref: feature/caching
       path: packages/video_player
   screen: ">=0.0.4 <0.1.0"
